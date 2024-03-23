@@ -1,0 +1,4 @@
+Dash == 2.16.1
+Plotly == 5.9.0
+Pandas
+Numpy
