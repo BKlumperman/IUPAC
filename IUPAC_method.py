@@ -15,6 +15,7 @@ import plotly.graph_objects as go
 suppress_callback_exceptions=True
 
 app = dash.Dash(__name__, suppress_callback_exceptions=True)
+server = app.server
 
 # Define CSS styles
 styles = {
